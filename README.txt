@@ -16,7 +16,7 @@ enderecos: relação 1:N com pessoas
 projetos: 
  - nome do projeto
 
-participacoes: relacao N:N pessoas
+participacoes: relação N:N pessoas
  - referencia as pessoas aos projetos
 
 
